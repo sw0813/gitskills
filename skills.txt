@@ -1,0 +1,10 @@
+
+
+$ git clone git@github.com:michaelliao/learngit.git
+Cloning into 'learngit'...
+remote: Counting objects: 46, done.
+remote: Compressing objects: 100% (26/26), done.
+remote: Total 46 (delta 16), reused 45 (delta 15)
+Receiving objects: 100% (46/46), 15.69 KiB | 6 KiB/s, done.
+Resolving deltas: 100% (16/16), done.
+
